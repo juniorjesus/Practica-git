@@ -114,7 +114,17 @@ margin-top: 0;
 .movie:hover .overview{
     transform: translateY(0);
 }
-
+.titleApp{
+    color: #fff;
+    text-align: center;
+}
+footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: var(--secundary-color);
+}
 
 
 
